@@ -1,0 +1,25 @@
+# C++ build artifacts
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+obj/
+Debug/
+Release/
+
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
